@@ -5,6 +5,28 @@
 </p>
 
 ---
+<!-- ===================== REPOSITORY METRICS (NUMBERS ONLY) ===================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ashwin18-Offcl&repo=Practice-All-Python-Topics-In-Data-Science&color=8e44ad&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Ashwin18-Offcl/Practice-All-Python-Topics-In-Data-Science?style=for-the-badge&color=f1c40f" />
+  <img src="https://img.shields.io/github/forks/Ashwin18-Offcl/Practice-All-Python-Topics-In-Data-Science?style=for-the-badge&color=e67e22" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/issues/Ashwin18-Offcl/Practice-All-Python-Topics-In-Data-Science?style=for-the-badge&color=e74c3c" />
+  <img src="https://img.shields.io/github/issues-pr/Ashwin18-Offcl/Practice-All-Python-Topics-In-Data-Science?style=for-the-badge&color=27ae60" />
+  <img src="https://img.shields.io/github/discussions/Ashwin18-Offcl/Practice-All-Python-Topics-In-Data-Science?style=for-the-badge&color=3498db" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/contributors/Ashwin18-Offcl/Practice-All-Python-Topics-In-Data-Science?style=for-the-badge&color=2ecc71" />
+  <img src="https://img.shields.io/github/downloads/Ashwin18-Offcl/Practice-All-Python-Topics-In-Data-Science/total?style=for-the-badge&color=9b59b6" />
+</p>
+
+<!-- ===================== END METRICS ===================== -->
+
+
 
 <!-- ===================== END METRICS ===================== -->
 
